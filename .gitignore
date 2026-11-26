@@ -62,3 +62,6 @@ peers/
 # 工具运行时文件
 .v2c/
 .video_agent/
+
+# 本 fork 的本地设计文档（不跟踪，随工作目录走）
+docs/superpowers/
